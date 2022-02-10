@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lianagitsit/75-soft-bot#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "discord.js": "^13.6.0",
+    "firebase": "^9.6.6"
   }
 }
